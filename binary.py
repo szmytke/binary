@@ -55,6 +55,6 @@ elif base == '10':
         i -= 1   
     PrintResult(num, '2')
 else:
-    print('Wrong format (Github:))')
+    print('Wrong format')
 
 
